@@ -2,6 +2,8 @@
 
 This design is currently in its very early days. There are several known design issues still present. This modification requires careful assembly and should not be attempted unless you really know what you're doing. I've run this with my 120 for a while now, without any issues - but I can't promise reliability or that I haven't overlooked something.
 
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/812f7cf7-2c25-489e-a6c1-0c9d1859e092" />
+
 ---
 
 # Required Parts:
@@ -16,8 +18,8 @@ This design is currently in its very early days. There are several known design 
 
 This shell has been tested using SLA/resin 3D printing from JLC3DP.
 
-* **Material:** 8001 Resin
-* **Finish:** Transparent finish with the Oil Sprayed surface treatment.
+* 8001 Resin
+* Transparent finish with the Oil Sprayed surface treatment.
 
 This design may be printable with other manufacturers and with other settings, but these are the only settings I've directly checked. The main issue will be finding a process that provides a transparent enough part for the "screen" part of the design.
 
