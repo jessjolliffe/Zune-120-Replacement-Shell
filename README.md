@@ -41,7 +41,7 @@ Because the front screen cover is 3D printed resin, it is usable and clear enoug
 
 ### 2. Warping on the Front Plate
 
-The front screen section is designed to be very thin in order to ensure the orioginal buttons feel similar to the original part. Because it's so thin, it makes the part quite susceptible to warping during the print and curing process which can cause issues with the final print and some of the button housings to break or snap.
+The front screen section is designed to be very thin in order to ensure the original buttons feel similar to the original part. Because it's so thin, it makes the part quite susceptible to warping during the print and curing process which can cause issues with the final print and some of the button housings to break or snap.
 
 If you do get it printed, I recommend ordering 2 or 3 front pieces at a time so you can pick the one with the best result without having further delays. 
 
