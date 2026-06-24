@@ -64,3 +64,11 @@ Currently the designed hold switch replacement part is too small to be printed b
 ### 6. No Original Connector Access
 
 My original goal for this project was a complete, easy to print replacement shell - in order to get my design to accomplish this I needed to cover the original connector. The walls of the printed part are much thicker than the original shell which means the data cable has to go a lot further into the housing. I had some issues with designing a slot that can accomodate the chunky original connector housing, and as I was intending to move to USB-C anyway I didn't spend too much time trying to come up with a solution.
+
+---
+
+# Support:
+
+There is no expectation to tip/donate for this project at all, but if you want to show your appreciation I do have a Ko-Fi link available below which really helps me out.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H819YUL)
